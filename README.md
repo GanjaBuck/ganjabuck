@@ -1,3 +1,2 @@
-FooCoin (FOO)
+GanjaBuck (GAB)
 
-Blah, blah, blah.
