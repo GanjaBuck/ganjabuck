@@ -1,9 +1,9 @@
-Building FooCoin
+Building GanjaBuck
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building ganjabuck-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of GanjaBuck.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building GanjaBuck,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of GanjaBuck.
